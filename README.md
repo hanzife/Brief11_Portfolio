@@ -1,6 +1,6 @@
 qu'est-ce que le CMS dans le développement web?
 
-** CMS ** aide aucun arrière-plan backend / frontend à construire des sites Web comme un exemple WordPress
+** CMS ** aide aucun arrière-plan backend / frontend à construire des sites Web comme un exemple WordPress, Weebly, Magnolia, Joomla, Drupal, Wix, Kentico, Modx, Bynder, DotCMS...
 
 
 
